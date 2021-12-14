@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Neville
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning full-stack JavaScript with Express and getting the hang of git
+- 👀 I’m interested in Web and Electron application development
+- 🌱 I’m currently learning full-stack JavaScript with Express and Electron
 - 📫 How to reach me robertneville27@gmail.com
 
 <!---
