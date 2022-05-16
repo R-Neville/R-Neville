@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Neville
 - 👀 I’m interested in Web and Electron application development
-- 🌱 I’m currently learning full-stack JavaScript with Express, and Electron with TypeScript
+- 🌱 I’m currently learning full-stack JavaScript with Express, Ruby on Rails, Electron, and TypeScript
 
 <!---
 R-Neville/R-Neville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
