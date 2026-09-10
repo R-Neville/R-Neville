@@ -2,7 +2,7 @@ Hi, 👋
 
 It's  @R-Neville here.
 
-I'm a full-stack PHP and TypeScript developer, also interested in Electron app develpment!
+I'm a full-stack PHP and TypeScript developer, also interested in desktop app develpment!
 
 <!---
 R-Neville/R-Neville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
